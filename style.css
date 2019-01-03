@@ -8,6 +8,10 @@ body{
     background-color: #A5F284;
 }
 
+.indexBody{
+    background-image: ""
+}
+
 h1{
     text-align: center;
     padding-bottom: 100px;
