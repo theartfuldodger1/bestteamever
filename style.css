@@ -2,22 +2,58 @@ html, body {
     height: 100%;
     margin: 0;
     padding: 0;
-    background-image: url ("background0.jpg");
+}
+/*<html > <head > <style >*/
+div.background {
+    background: url("background0.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-backround-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    border: 2px solid black;
 }
 
-body{
-    background-color: #A5F284;
+div.transbox {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.5;
+    filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+
+div.transbox p {
+    margin: 5%;
+    font-weight: bold;
+    color: #000000;
+}
+
+/*</style > </head > </html>*/
+
+body {
+   /* background-color: #A5F284;
+    
+    background: url("background0.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-backround-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+        */
+}
+
+img {
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
 }
 
 h1{
     text-align: center;
     padding-bottom: 100px;
 }
-
+/*
 .navbar{
     margin-bottom: 50px;
 }
-
+*/
 .topicTitle{
     text-align: center;
 }
