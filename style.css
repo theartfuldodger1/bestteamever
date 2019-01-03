@@ -72,9 +72,8 @@ h1{
     padding-left: 15px;
     padding-right: 15px;
     font-size: 22px;
-    border: solid;
-    border-color: #4286f4;
-    color: black;
+    color: #4286f4;
+    text-decoration: underline;
 }
 
 .copyright{
