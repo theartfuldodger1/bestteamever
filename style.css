@@ -9,7 +9,7 @@ html, body {
     letter-spacing: .016em;
     font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
 }
-/*<html > <head > <style >*/
+
 div.background {
     background: url("background0.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
@@ -23,39 +23,23 @@ div.transbox {
     margin: 30px;
     background-color: #ffffff;
     border: 1px solid black;
-    opacity: 0.5;
-    filter: alpha(opacity=60); /* For IE8 and earlier */
+    opacity: 0.7;
+    filter: alpha(opacity=70); /* For IE8 and earlier */
 }
 
-    div.transbox p {
-        margin: 5%;
-        font-weight: bold;
-        color: #000000;
-    }
-
-/*</style > </head > </html>*/
-
-body {
-    /* background-color: #A5F284;
-    
-    background: url("background0.jpg") no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-backround-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-        */
+div.transbox p {
+    margin: 5%;
+    font-weight: bold;
+    color: #000000;
 }
+
 h1{
     text-align: center;
     padding-bottom: 100px;
     font-size: 25px;
     text-decoration: underline;
 }
-/*
-.navbar{
-    margin-bottom: 100px;
-}
-*/
+
 .topicTitle{
     text-align: center;
     font-size: 35px;
