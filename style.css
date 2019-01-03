@@ -6,13 +6,23 @@ html, body{
 
 h1{
     text-align: center;
+    padding-bottom: 100px;
 }
 
-.containerOne{
+.navbar{
+    margin-bottom: 50px;
+}
+
+.topicTitle{
     text-align: center;
 }
 
 .topicContent{
     margin-left: 200px;
     margin-right: 200px;
+    margin-bottom: 100px;
+}
+
+.copyright{
+    font-size: 20px;
 }
