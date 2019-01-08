@@ -1,11 +1,17 @@
 # bestteamever
-bootcamp  project
+
+bootcamp team project:
+Cordell Hurst (theartfuldodger1 @ https://github.com/theartfuldodger1)
+Shani Saar (shanisaar @ https://github.com/shanisaar)
+Toby Au (tobyyau @ https://github.com/tobyau)
+Michael Nurilov (mnurilov @ https://github.com/mnurilov)
+
 
 why should we save the environment? 
 
 Nature provides us all with so many wonderful and useful things. From beautiful sights, to food & shelter, to maintaining the delicate balance necessary to sustain life on this planet. Mother Nature works very hard to ensure that life can exist (and coexist) in the driest deserts, and the lushest rainforests. As industry advances and the human footprint spreads, the delicacy of this balance increases more and more. As a result, it is ever-important that we do our due diligence in helping nature to thrive, however we can. That starts with taking care of the environment.
 
-First and foremost, a clean environment is vital to not only to our own healthy living, but survival of all living things. The air we breathe is the most essential resource that the environment provides us with, and our efforts to reduce air pollution are currently not even pacing the pollution being pumped into the air daily (especially in major cities). According to the EPA, air pollution may increase risk of heart attacks, asthma, bronchitis, and premature mortality. There is also evidence to suggest that most indoor air can be up to five times more toxic than it is outdoors. But air pollution is not the only type of pollution we should be concerned with. The CDC also warns that water pollution may increase risks of gastrointestinal illness, reproductive problems, and neurological disorders. When you think of the environment as something that may actually be hurting us if we don’t take care of it, the need for a resolution becomes much clearer.
+First and foremost, a clean environment is vital to not only to our own healthy living, but survival of all living things. The air we breathe is the most essential resource that the environment provides us with, and our efforts to reduce air pollution are currently not even pacing the pollution being pumped into the air daily (especially in major cities). According to the EPA, air pollution may increase risk of heart attacks, asthma, bronchitis, and premature mortality. There is also evidence to suggest that most indoor air can be up to five times more toxic than it is outdoors. But air pollution is not the only type of pollution we should be concerned with. The CDC also warns that water pollution may increase risks of gastrointestinal illness, reproductive problems, and neurological disorders. When you think of the environment as something that may actually be hurting us if we donâ€™t take care of it, the need for a resolution becomes much clearer.
 
 Humans impact on the environment:
 
@@ -16,9 +22,9 @@ source: https://www.naturesacademy.org/educator-resources/the-importance-of-taki
 page 2:
 Things you can do to help the environment:
 
-The importance of caring for the environment is absolutely paramount for many reasons. Perhaps most importantly, we need to make sure that we leave this place better than when we came for the next generations whose job(s) it will be to also look after the planet. It wouldn’t be fair to hand them something we fouled up that they are responsible for cleaning up. With that in mind, here are a few ways to take care of our environment:
+The importance of caring for the environment is absolutely paramount for many reasons. Perhaps most importantly, we need to make sure that we leave this place better than when we came for the next generations whose job(s) it will be to also look after the planet. It wouldnâ€™t be fair to hand them something we fouled up that they are responsible for cleaning up. With that in mind, here are a few ways to take care of our environment:
 
-1.­ Pay attention to how you use water. The little things can make a big difference. Every time you turn off the water while you're brushing your teeth, you're doing something good. Got a leaky toilet? You might be wasting 200 gallons (757 liters) of water a day. Try drinking tap water instead of bottled water, so you aren't wasting all that packaging as well. Wash your clothes in cold water when you can.
+1.Â­ Pay attention to how you use water. The little things can make a big difference. Every time you turn off the water while you're brushing your teeth, you're doing something good. Got a leaky toilet? You might be wasting 200 gallons (757 liters) of water a day. Try drinking tap water instead of bottled water, so you aren't wasting all that packaging as well. Wash your clothes in cold water when you can.
 
 2. Leave your car at home. If you can stay off the road just two days a week, you'll reduce greenhouse gas emissions by an average of 1,590 pounds (721 kilograms) per year [source: EPA]. Combine your errands -- hit the post office, grocery store and shoe repair place in one trip. It will save you gas and time.
 
